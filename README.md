@@ -11,10 +11,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/fvalles/">
-    <img src="https://img.shields.io/badge/-fvalles-blue?style=flat&logo=Linkedin&logoColor=white)" />
+    <img src="https://img.shields.io/badge/-fvalles-blue?style=flat&logo=Linkedin&logoColor=white)" alt="Linkedin badge" />
   </a>
   <a href="https://fvalles.github.io/PersonalWebsite/">
-    <img src="https://img.shields.io/badge/-personal website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/-personal website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website badge" />
   </a>
 </p>
 
@@ -25,11 +25,11 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img height="20px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" />
+  <img height="20px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript logo image" />
+  <img height="20px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS logo image" />
+  <img height="20px" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL logo image" />
+  <img height="20px" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest logo image" />
 </p>
 
 <br>
