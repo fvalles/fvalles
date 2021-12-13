@@ -34,10 +34,11 @@
 
 <br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvalles&show_icons=true&theme=dracula" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fvalles&show_icons=true&theme=dracula" />
+</p>
 
-<br>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=fvalles&label=Visitors" />
 </p>
