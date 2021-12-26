@@ -16,6 +16,9 @@
   <a href="https://fvalles.github.io/PersonalWebsite/">
     <img src="https://img.shields.io/badge/-personal website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website badge" />
   </a>
+  <a href="https://medium.com/@fvalles/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium badge" />
+  </a>
 </p>
 
 <br>
