@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Frontend Senior developer 👨🏽‍💻 at <a href="https://ank.app/">ank</a>.
+  Frontend Staff Engineer 👨🏽‍💻 at <a href="https://ank.app/">ank</a>.
 </p>
 <p>
   From <b>Buenos Aires, Argentina 🇦🇷.
