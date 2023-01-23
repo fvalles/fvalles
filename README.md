@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Frontend Staff Engineer 👨🏽‍💻 at <a href="https://ank.app/">ank</a>.
+  React Native Engineer 👨🏽‍💻 at <a href="[https://ank.app](https://www.cookunity.com/)/">Cook Unity</a>.
 </p>
 <p>
   From <b>Buenos Aires, Argentina 🇦🇷.
