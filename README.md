@@ -6,7 +6,7 @@
   Sr. Frontend Developer 👨🏽‍💻 at <a href="https://www.cookunity.com/">Cook Unity</a>.
 </p>
 <p>
-  From <b>Buenos Aires, Argentina 🇦🇷. Currently living in Barcelona, Spain 🇪🇸
+  From <b>Buenos Aires, Argentina 🇦🇷</b>. Currently living in <b>Barcelona, Spain 🇪🇸</b>
 </p>
 
 <p>
