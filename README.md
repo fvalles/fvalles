@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  React Native Engineer 👨🏽‍💻 at <a href="https://www.cookunity.com/">Cook Unity</a>.
+  Sr. Frontend Developer 👨🏽‍💻 at <a href="https://www.cookunity.com/">Cook Unity</a>.
 </p>
 <p>
   From <b>Buenos Aires, Argentina 🇦🇷.
