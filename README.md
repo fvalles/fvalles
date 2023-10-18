@@ -3,7 +3,7 @@
 </h1>
 
 <p>
-  Sr. Frontend Developer 👨🏽‍💻 at <a href="https://www.cookunity.com/">Cook Unity</a>.
+  Sr. Frontend Developer 👨🏽‍💻 at <a href="https://www.globant.com/es">Globant</a>.
 </p>
 <p>
   From <b>Buenos Aires, Argentina 🇦🇷</b>. Currently living in <b>Barcelona, Spain 🇪🇸</b>
